@@ -1,6 +1,6 @@
 import math
 
-with open("0022_names.txt", "r", encoding="utf-8") as file:
+with open("problem22_data.txt", "r", encoding="utf-8") as file:
     names_1 = file.read()
     
 names = names_1.split(",")
